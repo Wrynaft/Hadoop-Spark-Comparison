@@ -22,9 +22,6 @@ This project compares the performance of **Apache Hadoop (MapReduce)** and **Apa
 
 ---
 
-
----
-
 ## 📂 Dataset
 
 **Name:** AI Assistant Usage in Student Life 
